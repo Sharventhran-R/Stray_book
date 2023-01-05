@@ -37,6 +37,11 @@ $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
 ```
 
+- Create a User by 
+```
+$ python3 manage.py createsuperuser
+```
+
 ### Thanks for viewing.........;)
 
 
