@@ -11,7 +11,7 @@
 
 ### Features
 
-- Automate barcode generator
+- Automatic barcode generator
 - Multiple data holding
 
 ### Requirements
