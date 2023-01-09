@@ -19,6 +19,7 @@
 **`Stray Book`** requires the following programs to run properly - 
 - `python3`
 - `pip3`
+- (Optional) Try using Virtual Environment.
 
 ### Installation
 
