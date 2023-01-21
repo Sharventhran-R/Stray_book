@@ -43,6 +43,8 @@ $ python3 manage.py runserver
 $ python3 manage.py createsuperuser
 ```
 
+- Edit and delete data by `/admin`
+
 ### Thanks for viewing.........;)
 
 
